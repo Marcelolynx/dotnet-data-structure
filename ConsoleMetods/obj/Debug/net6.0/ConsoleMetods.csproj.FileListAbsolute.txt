@@ -1,0 +1,15 @@
+/Users/marcelolynx/RiderProjects/dotnet-data-structure/ConsoleMetods/bin/Debug/net6.0/ConsoleMetods
+/Users/marcelolynx/RiderProjects/dotnet-data-structure/ConsoleMetods/bin/Debug/net6.0/ConsoleMetods.deps.json
+/Users/marcelolynx/RiderProjects/dotnet-data-structure/ConsoleMetods/bin/Debug/net6.0/ConsoleMetods.runtimeconfig.json
+/Users/marcelolynx/RiderProjects/dotnet-data-structure/ConsoleMetods/bin/Debug/net6.0/ConsoleMetods.dll
+/Users/marcelolynx/RiderProjects/dotnet-data-structure/ConsoleMetods/bin/Debug/net6.0/ConsoleMetods.pdb
+/Users/marcelolynx/RiderProjects/dotnet-data-structure/ConsoleMetods/obj/Debug/net6.0/ConsoleMetods.csproj.AssemblyReference.cache
+/Users/marcelolynx/RiderProjects/dotnet-data-structure/ConsoleMetods/obj/Debug/net6.0/ConsoleMetods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelolynx/RiderProjects/dotnet-data-structure/ConsoleMetods/obj/Debug/net6.0/ConsoleMetods.AssemblyInfoInputs.cache
+/Users/marcelolynx/RiderProjects/dotnet-data-structure/ConsoleMetods/obj/Debug/net6.0/ConsoleMetods.AssemblyInfo.cs
+/Users/marcelolynx/RiderProjects/dotnet-data-structure/ConsoleMetods/obj/Debug/net6.0/ConsoleMetods.csproj.CoreCompileInputs.cache
+/Users/marcelolynx/RiderProjects/dotnet-data-structure/ConsoleMetods/obj/Debug/net6.0/ConsoleMetods.dll
+/Users/marcelolynx/RiderProjects/dotnet-data-structure/ConsoleMetods/obj/Debug/net6.0/refint/ConsoleMetods.dll
+/Users/marcelolynx/RiderProjects/dotnet-data-structure/ConsoleMetods/obj/Debug/net6.0/ConsoleMetods.pdb
+/Users/marcelolynx/RiderProjects/dotnet-data-structure/ConsoleMetods/obj/Debug/net6.0/ConsoleMetods.genruntimeconfig.cache
+/Users/marcelolynx/RiderProjects/dotnet-data-structure/ConsoleMetods/obj/Debug/net6.0/ref/ConsoleMetods.dll
